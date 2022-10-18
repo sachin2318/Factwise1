@@ -1,0 +1,6 @@
+.header-search-bar:focus-visible {
+  outline: none;
+}
+input:read-only {
+  background-color: "white" !important;
+}
